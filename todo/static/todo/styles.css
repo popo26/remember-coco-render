@@ -1,0 +1,194 @@
+h1 {
+font-family: 'Monofett';
+}
+
+h2, h3, h4 {
+    font-family: 'Lobster';
+}
+
+p {
+    font-family:'Jua';
+    font-size: large;
+}
+
+/* index.html */
+
+.word {
+    color: #F806CC;
+}
+
+.header {
+    margin: 3% auto 2%;
+    padding-top: 2%;
+}
+
+.top {
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 80%;
+    margin: auto;
+}
+
+
+.add-forms {
+    text-align:center;
+    color: #FFBCD1;
+    width: 100%;
+    margin:auto;
+}
+
+.add-button {
+    margin: 3% auto 5%;
+}
+
+.history {
+    padding-top: 2%;
+    text-align: center;
+    width: 80%;
+    background-color: black;
+    margin:auto;
+}
+
+ul.borrow-list li {
+    background-color: black;
+}
+
+.total {
+    color:red;
+}
+
+.delete-button {
+    margin-top: 5%;
+    margin-bottom: 2%;
+    
+}
+
+.no-history {
+    text-align: center;
+}
+
+.well-done-div {
+    width: 60%;
+    height: 30%;
+    margin:auto;
+
+}
+
+.img-div {
+    
+    width:30%;
+    
+    margin:auto;
+}
+
+.well-done-img {
+    padding-top: 5%;
+    margin: 2% auto;
+    max-width:100%;
+    max-height: 100%;
+    object-fit:contain;
+    border-radius: 100%;
+}
+
+.pagination-span {
+    text-align: center;
+    width:100%;
+    margin: auto;
+    font-size: x-small;
+}
+
+.pagination-links {
+    color: #FFBCD1;
+}
+
+.pagination-links:hover {
+    color:crimson;
+}
+
+.too-much {
+    font-family: 'Lobster';
+    font-size: x-large;
+}
+
+/* todo_form.html */
+
+.update-div {
+    padding-top: 5%;
+    width:80%;
+    margin:3% auto;
+    background-color: black;
+}
+
+.update-form {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    color: #FFBCD1;
+}
+
+.update-button {
+    text-align: center;
+    margin-top: 6%;
+    padding-bottom: 9%;
+}
+
+/* repay.html */
+
+.repay-div {
+    background-color: black;
+    width: 80%;
+    margin: 3% auto;
+    color: white;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+
+.repay-form {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    color: #FFBCD1;
+}
+
+.repay-button {
+    margin-top: 6%;
+}
+
+/* ALL */
+
+.tables {
+    padding-top: 2%;
+}
+
+.entry-field {
+    width: 80%;
+    margin: 1% auto;
+}
+
+.link {
+    color: #716F81;
+}
+
+.link:hover {
+    color:purple;
+}
+
+.link-completed {
+    color: #FF00E4;
+}
+
+.footer {
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+color: #716F81;
+text-align: center;
+font-family: 'Monofett';
+}
+
+.button {
+    margin-left: 5%;
+}
